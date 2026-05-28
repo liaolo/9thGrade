@@ -137,6 +137,12 @@ namespace _10thGrade
             Console.WriteLine("-------------------------------");
             Console.WriteLine("Col Test #2 avrg is: " + Matrix.ColAvrg(grd, 1));
         }
+
+    
+        
+
+
+
     }
 }
 
